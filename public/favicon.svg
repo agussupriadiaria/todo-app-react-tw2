@@ -1,0 +1,33 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  width="64"
+  height="64"
+  fill="none"
+>
+  <rect width="64" height="64" rx="12" fill="#0B1120" />
+
+  <!-- Kotak -->
+  <path
+    d="M20 16H40"
+    stroke="#6C8CFF"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+  <path
+    d="M16 20V44C16 48 18 50 22 50H42C46 50 48 48 48 44V34"
+    stroke="#6C8CFF"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Check -->
+  <path
+    d="M28 32L34 38L50 22"
+    stroke="#6C8CFF"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
