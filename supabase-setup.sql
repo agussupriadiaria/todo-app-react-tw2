@@ -1,6 +1,5 @@
 -- ============================================================
 -- SUPABASE SETUP SCRIPT
--- Jalankan script ini di Supabase SQL Editor
 -- Dashboard → SQL Editor → New Query → Paste & Run
 -- ============================================================
 
